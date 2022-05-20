@@ -1,0 +1,6 @@
+a- Depende a que nos refiramos, mi repositorio LOCAL (el que esta descargado en mi computadora) no se ve afectado a menos que 
+yo (ALFA) haga el pull para actualizar los archivos. Si nos referimos al repositorio remoto (colgado en github) si, mientras la persona 
+tenga los permisos de escritura va a poder modificarlo y efectuar cambios que se ven inmediatamente.
+
+b- Si lo pusheo al repositorio si, si lo mantengo localmente, no.
+
